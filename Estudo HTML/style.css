@@ -1,5 +1,8 @@
 body{
     background: #78ffaa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    text-align: center;
 }
 
 #title, .subtitle{
@@ -43,6 +46,7 @@ body{
     background: #acffcb;
     border-radius: 40%;
     border: 2px solid #b64741;
+    width: 20%;
     
 }
 Ll{
