@@ -169,7 +169,7 @@ a:hover{
 }
 #toggle:checked + .checkbox .trace:nth-child(3){
     transform: rotate(-45deg);
-    background-color: #FFCC99;
+    background-color: #B4C6E7;
     top: 48px;
 }
 #toggle:checked +.checkbox{
